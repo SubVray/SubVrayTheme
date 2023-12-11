@@ -1,0 +1,21 @@
+{
+  "name": "subvraytheme",
+  "displayName": "SubVrayTheme",
+  "description": "theme subvray ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SubVrayTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SubVrayTheme-color-theme.json"
+      }
+    ]
+  }
+}
