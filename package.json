@@ -1,31 +1,31 @@
 {
-  "name": "subvray-theme",
-  "displayName": "SubVrayTheme",
-  "description": "theme subvray ",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.81.0"
-  },
-  "icon": "icons/icon.png",
-  "author": {
-    "name": "Jim Bolaños Zúñiga",
-    "email": "jim.alberto.21@gmail.com"
-  },
-  "repository": {
-    "url": "https://github.com/SubVray/SubVray-Theme.git",
-    "type": "git"
-  },
-  "publisher": "SubVray",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "SubVrayTheme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/SubVrayTheme-color-theme.json"
-      }
-    ]
-  }
+	"name": "subvraytheme",
+	"displayName": "SubVrayTheme",
+	"description": "theme subvray ",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"icon": "icons/icon.png",
+	"author": {
+		"name": "Jim Bolaños Zúñiga",
+		"email": "jim.alberto.21@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/SubVray/SubVray-Theme.git",
+		"type": "git"
+	},
+	"publisher": "SubVray",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SubVrayTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SubVrayTheme.json"
+			}
+		]
+	}
 }
