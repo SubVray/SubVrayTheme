@@ -11,6 +11,11 @@
     "name": "Jim Bolaños Zúñiga",
     "email": "jim.alberto.21@gmail.com"
   },
+  "repository": {
+    "url": "https://github.com/SubVray/SubVray-Theme.git",
+    "type": "git"
+  },
+  "publisher": "SubVray",
   "categories": [
     "Themes"
   ],
