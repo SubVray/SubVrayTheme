@@ -1,4 +1,4 @@
-# subvraytheme README
+# subvray-theme README
 
 ## Working with Markdown
 
